@@ -242,4 +242,4 @@
     };
   }]);
 
-})(angular, this);
+})(angular, window);

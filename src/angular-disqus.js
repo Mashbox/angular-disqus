@@ -236,4 +236,4 @@
     };
   }]);
 
-})(angular, this);
+})(angular, window);
